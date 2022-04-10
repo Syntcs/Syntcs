@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Syntcs
+- 🌱 I’m currently learning Java / JavaScript
+- 📫 How to reach me Synt#1376
